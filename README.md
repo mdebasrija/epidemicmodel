@@ -45,3 +45,7 @@ model trend.
 ## License
 This repository is licensed under the MIT License. Feel free to use the code in this repository for your own learning purposes or projects.
 - see the [LICENSE](LICENSE) file for details.
+
+<!-- Authors -->
+## Contributors
+<a href="https://github.com/https://github.com/mdebasrija/epidemicmodel"><img src="https://contrib.rocks/image?repo=mdebasrija/epidemicmodel"></a>

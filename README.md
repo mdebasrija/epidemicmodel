@@ -48,4 +48,4 @@ This repository is licensed under the MIT License. Feel free to use the code in 
 
 <!-- Authors -->
 ## Contributors
-<a href="https://github.com/mdebasrija/epidemicmodel/graphs/contributors"><img src="https://contrib.rocks/image?repo=mdebasrija/epidemicmodel"></a>
+<a href="https://github.com/mdebasrija/epidemicmodel/contributors"><img src="https://contrib.rocks/image?repo=mdebasrija/epidemicmodel"></a>

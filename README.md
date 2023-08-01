@@ -44,3 +44,4 @@ model trend.
 
 ## License
 This repository is licensed under the MIT License. Feel free to use the code in this repository for your own learning purposes or projects.
+- see the [LICENSE](LICENSE) file for details.

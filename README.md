@@ -40,7 +40,7 @@ through existing literature to find a good model for the pandemic, by looking at
 the clinical states of individual persons, and the SIR, SEIR and SEIRD models were simple enough
 to understand without being over-simplified. Of course, incorporating time-
 varying functions will give much better results for attempts to fit the data to the
-model trend. 
+model trend. Although this project is by no means an attempt to make predictions in real life, I learnt a lot about how professional epidemiologists advise the government about mitigation measures when a pandemic sets in, before it has fully run its course.
 
 ## License
 This repository is licensed under the MIT License. Feel free to use the code in this repository for your own learning purposes or projects.
